@@ -1,0 +1,53 @@
+html {
+	overflow: hidden;
+	position: fixed;
+}
+
+head {
+	display: none;
+	overflow: hidden;
+	position: fixed;
+}
+
+title {
+	display: none;
+}
+
+.wall{
+	border-style: solid;
+	border-width: 5px;
+}
+/*player related stuff*/
+#player {
+position: absolute;
+}
+
+.player{
+	position: absolute;
+	display: inline-block;
+	border-style: solid;
+	border-radius: 40%;
+	border-width: 2px;
+	z-index: 50;
+}
+
+#crosshair{
+	position: absolute;
+	display: inline-block;
+	z-index: 40;
+}
+/*world related stuff*/
+#world {
+position: absolute;
+}
+
+#ui {
+z-index: 100;
+}
+
+canvas {
+	position: inherit;
+	z-index: inherit;
+}
+
+/*jquery ui css*/

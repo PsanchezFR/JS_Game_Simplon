@@ -1,0 +1,30 @@
+Ceci est un prototype de page web interactive réalisée par Paul Sanchez afin de candidater à 
+Simplon Nancy le 18/11/2017.
+
+Les contrôles sont accessibles à tout moment dans le bouton "rouage" en haut à gauche.
+
+INSTRUCTIONS :
+	-Décompressez le contenu du .zip
+	-Ouvrez main.html
+
+CONTRÔLES :
+
+	-Déplacement : fléches directionnelles
+	-Interaction : barre d'espace
+
+INDICES :
+
+	-Le carré rose est un personnage non-joueur interactif.
+	-Il faut être suffisament proche pour interragir avec un objet.
+
+INFORMATIONS DIVERSES:
+
+	-Ce prototype a été réalisé en javascript / HTML / CSS.
+	-Il utilise les librairies requireJS, jquery et jqueryUI.
+	-Il peut être testé en local.
+	-Il a été réalisé pour être compatible avec mozilla Firefox et google Chrome.
+	-Les commentaires et le code sont entièrement en anglais.
+	-Pour toute question, me contacter à l'adresse p.sanchez.fr@gmail.com.
+
+
+Merci d'avoir porté de l'intérêt à cette réalisation !
